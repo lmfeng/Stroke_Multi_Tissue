@@ -1,0 +1,5 @@
+# Primate_inn_cortical_arealization
+## Data and code for the paper
+Yang M, Li Y, Shi K, et al. Single-Cell Transcriptomes of Immune Cells from Multiple Compartments Redefine the Ontology of Myeloid Subtypes Post-Stroke. Adv Sci (Weinh). Published online February 11, 2025. doi:10.1002/advs.202408722
+## Introduction
+This study investigates the activation and infiltration of immune cells in ischemic stroke using a murine model (p-MCAO). Single-cell transcriptomes of immune cells from the brain, calvarial bone marrow (CBM), femur bone marrow (FBM), and peripheral blood mononuclear cells (PBMCs) were profiled. The analysis reveals distinct populations of cerebral myeloid cells and brain-resident immune cells post-stroke, including a novel CD14+ neutrophil subpopulation resembling CBM neutrophils. It also identifies two main origins of disease-related immune cells: inflammatory macrophages from circulating monocytes in the skull and immature disease-associated microglia from pre-existing microglia. This comprehensive molecular survey provides insights into both local and distant immune responses in stroke.
