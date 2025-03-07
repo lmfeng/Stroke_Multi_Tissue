@@ -1,4 +1,4 @@
-# Primate_inn_cortical_arealization
+# Single-Cell Transcriptomes of Immune Cells from Multiple Compartments Redefine the Ontology of Myeloid Subtypes Post-Stroke
 ## Data and code for the paper
 Yang M, Li Y, Shi K, et al. Single-Cell Transcriptomes of Immune Cells from Multiple Compartments Redefine the Ontology of Myeloid Subtypes Post-Stroke. Adv Sci (Weinh). Published online February 11, 2025. doi:10.1002/advs.202408722
 ## Introduction
